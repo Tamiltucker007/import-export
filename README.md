@@ -3,6 +3,7 @@
 After git clone Folow below steps:
 - [composer install].
 - [npm install and npm run dev].
+
 After Database connection Folow below steps:
 - [php artisan migrate].
 - [php artisan migrate].
